@@ -1,0 +1,15 @@
+Q: Is it a living creature?
+Q: Is it an insect?
+Q: Does it have a lot of regs?
+A: spider
+A: butterfly
+Q: Is it smart?
+Q: Is it a mammal?
+Q: Can it climb trees?
+A: Chimpanzee
+A: Dolpin
+A: human
+A: cat
+Q: Does it have fur?
+A: computer
+A: rock
